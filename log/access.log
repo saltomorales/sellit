@@ -1,0 +1,2 @@
+::1 - - [10/Feb/2021:11:08:00 +0100] "GET / HTTP/1.1" 200 84 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:86.0) Gecko/20100101 Firefox/86.0"
+::1 - - [10/Feb/2021:11:08:00 +0100] "GET /favicon.ico HTTP/1.1" 404 196 "http://sellit.test/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:86.0) Gecko/20100101 Firefox/86.0"
